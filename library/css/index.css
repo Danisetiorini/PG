@@ -1,0 +1,40 @@
+/* css form tabel */
+
+.btn_ubah, a{
+	background-color: #337ab7;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.btn_hapus, a {
+    background-color: #d9534f;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn_tambah, a {
+    background-color: #5cb85c;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+div.ex2 {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+body {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	border-radius: 5px;
+}

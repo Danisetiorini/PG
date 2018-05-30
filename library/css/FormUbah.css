@@ -1,0 +1,32 @@
+/* css form ubah */
+input[type=text]{
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+
+body {
+padding-left: 100px;
+padding-right: 100px;
+border-radius: 5px;
+background-color: #f2f2f2;
+}
+
+.btn_simpan{
+background-color: #337ab7;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+.btn_batal{
+background-color: #d9534f;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+/* display: inline-block; */
+}
